@@ -8,7 +8,6 @@
   },
   "author": "Nguyen Nguyen",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0"
@@ -18,5 +17,14 @@
     "eslint-config-prettier": "^10.1.2",
     "nodemon": "^3.1.9",
     "prettier": "^3.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenrio/DC23V7X107_Nguyen_Duc_Nguyen_Backend1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nguyenrio/DC23V7X107_Nguyen_Duc_Nguyen_Backend1/issues"
+  },
+  "homepage": "https://github.com/nguyenrio/DC23V7X107_Nguyen_Duc_Nguyen_Backend1#readme",
+  "description": ""
 }
